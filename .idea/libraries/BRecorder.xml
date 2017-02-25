@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BRecorder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/BRecorder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

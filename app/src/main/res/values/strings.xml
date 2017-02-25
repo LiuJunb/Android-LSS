@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_username">用户名/手机号</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_captcha">请输入验证码</string>
+
+</resources>
